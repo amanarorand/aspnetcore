@@ -1,0 +1,11 @@
+d:\vscode\aspnetcore\ch3\JWT\bin\Debug\netcoreapp2.0\JWT.deps.json
+d:\vscode\aspnetcore\ch3\JWT\bin\Debug\netcoreapp2.0\JWT.runtimeconfig.json
+d:\vscode\aspnetcore\ch3\JWT\bin\Debug\netcoreapp2.0\JWT.runtimeconfig.dev.json
+d:\vscode\aspnetcore\ch3\JWT\bin\Debug\netcoreapp2.0\JWT.dll
+d:\vscode\aspnetcore\ch3\JWT\bin\Debug\netcoreapp2.0\JWT.pdb
+d:\vscode\aspnetcore\ch3\JWT\obj\Debug\netcoreapp2.0\JWT.csprojAssemblyReference.cache
+d:\vscode\aspnetcore\ch3\JWT\obj\Debug\netcoreapp2.0\JWT.csproj.CoreCompileInputs.cache
+d:\vscode\aspnetcore\ch3\JWT\obj\Debug\netcoreapp2.0\JWT.AssemblyInfoInputs.cache
+d:\vscode\aspnetcore\ch3\JWT\obj\Debug\netcoreapp2.0\JWT.AssemblyInfo.cs
+d:\vscode\aspnetcore\ch3\JWT\obj\Debug\netcoreapp2.0\JWT.dll
+d:\vscode\aspnetcore\ch3\JWT\obj\Debug\netcoreapp2.0\JWT.pdb
